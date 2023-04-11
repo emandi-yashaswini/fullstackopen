@@ -1,13 +1,13 @@
-# Countries exercises with custom hooks
+## GraphQL frontend
 
-In this exercise, we made a new version of the countries exercise from part 2 using custom hooks.
+Through the exercises, we will implement a GraphQL frontend for the GraphQL-library created previously.
 
-This application is used to search for country details from the https://restcountries.eu/ interface. If country is found, the details of the country are displayed.
 
-## Start the application
+### Start the application locally
+First, you need to start the backend from the previous exercise. To do so, head to the `part8/library-backend` directory and follow the instructions from the README.
 
-To start an application, do the following :
 
+Then, start the frontend:
 ```bash
 # Install dependancies
 $ npm install
@@ -16,4 +16,4 @@ $ npm install
 $ npm start
 ```
 
-You can then access the app on : [http://localhost:3000/](http://localhost:3000/)
+You can then access the app on: http://localhost:3000/. 
